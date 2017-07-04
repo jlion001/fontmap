@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<versions>
+  <version id="2016.10.13.1331>
+    <change>Fixed issue with ANSI output</change>
+    <change>Fixed issue minimize / maximize</change>
+  </version>
+  <version id="2016.10.01.1703">
+    <change>Now supports both ASCIi and ANSI output</change>
+  </version>
+  <version id="2015.12.28.1757">
+    <change>Created</change>
+  </version>  
+</versions>
